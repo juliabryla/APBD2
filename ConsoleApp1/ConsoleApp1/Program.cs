@@ -13,3 +13,8 @@ static double setavg(int[] arr)
     return sum / arr.Length;
 }
 
+static int findMax(int[] arr2)
+{
+    return findMax(arr2);
+}
+
