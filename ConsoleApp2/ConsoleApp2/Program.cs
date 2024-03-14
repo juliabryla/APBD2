@@ -20,6 +20,7 @@ namespace ConsoleApp2
 
             static int findMax(int[] arr2)
             {
+                Console.Write("HIHIHIHIHIHIHIHI");
                 return findMax(arr2);
             }
         }
